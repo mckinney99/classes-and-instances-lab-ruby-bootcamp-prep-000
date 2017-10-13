@@ -1,4 +1,4 @@
 class Dog
 end
 
-snoopy = new.Dog
+snoopy = Dog.new
